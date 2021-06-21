@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/bin/Debug/netcoreapp3.1/SalesTaxDemo.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/bin/Debug/netcoreapp3.1/SalesTaxDemo.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/bin/Debug/netcoreapp3.1/SalesTaxDemo.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/bin/Debug/netcoreapp3.1/SalesTaxDemo.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/bin/Debug/netcoreapp3.1/SalesTaxDemo.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/SalesTaxDemo/obj/Debug/netcoreapp3.1/SalesTaxDemo.genruntimeconfig.cache
